@@ -9,4 +9,5 @@ Information found from [Office of Institutional Data(OID)](https://data.lehigh.e
 ## Highest homelessness rates among U.S. states, 2023 
 Information found from [USAFacts team](https://usafacts.org/articles/which-states-have-the-highest-and-lowest-rates-of-homelessness/). These are the top 4 states with the highest homelessness rates per 10,000 people in 2023. Washington DC has the most homelessness rates per 10,000 people with 73 homeless people. New York has 53 homeless people per 10,000 people, making them the second highest state. Then Vermont with 50 people per every 10,000, and then Oregon with 48.
 ![infographic2](https://github.com/mls227/mls227.github.io/blob/main/Add%20a%20heading.png?raw=true)
+## Lehigh-Lafayette Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1zD0FkLmCLoSa4UcWFNypZ9qifCmAXejNKJ-IrI7u7cc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
