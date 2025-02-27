@@ -11,3 +11,7 @@ Information found from [USAFacts team](https://usafacts.org/articles/which-state
 ![infographic2](https://github.com/mls227/mls227.github.io/blob/main/Add%20a%20heading.png?raw=true)
 ## Lehigh-Lafayette Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1zD0FkLmCLoSa4UcWFNypZ9qifCmAXejNKJ-IrI7u7cc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## The Golden Age of Broadway Timeline
+Information found from [pbs.org](https://www.pbs.org/wnet/broadway/timelines/1943-1959/). Highlights some of the most successful and revolutionary Broadway shows that opened during this period of time considered "The Golden Age of Broadway 1943-1959." They consist of 1943's *Oklahoma!*, 1949's *South Pacific*, 1956's *My Fair Lady*, 1957's *West Side Story*, and 1959's *The Sound of Music*.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15Yoz57EXPc6snXYv9tMpFiZHYrEY6a1Hxs81WskMCNg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
