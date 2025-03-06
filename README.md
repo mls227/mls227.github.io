@@ -18,3 +18,5 @@ Information found from [pbs.org](https://www.pbs.org/wnet/broadway/timelines/194
 
 ## Fall 2024 Lehigh University Undergraduate Enrollment
 ![image](https://github.com/mls227/mls227.github.io/blob/main/LehighUndergradEnrollment%20.png?raw=true)
+## Top 10 States with the most Pet Ownership
+![image](https://github.com/mls227/mls227.github.io/blob/main/Top10SatesPetownership.png?raw=true)
