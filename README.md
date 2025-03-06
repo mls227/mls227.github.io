@@ -17,4 +17,4 @@ Information found from [pbs.org](https://www.pbs.org/wnet/broadway/timelines/194
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15Yoz57EXPc6snXYv9tMpFiZHYrEY6a1Hxs81WskMCNg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Fall 2024 Lehigh University Undergraduate Enrollment
-![image](https://github.com/mls227/mls227.github.io/blob/main/LehighUndergraduateEnrollment.png?raw=true)
+![image](https://github.com/mls227/mls227.github.io/blob/main/LehighUndergradEnrollment%20.png?raw=true)
